@@ -4,7 +4,7 @@
 # How to play
 First Download or clone this repo, and then run the project with LÖVE, which can be downloaded from https://love2d.org/. The easiest way to run a project with LÖVE is to drag the project folder onto a LÖVE application shortcut. 
 
-You can run the game without downloading LÖVE. Just download the game from https://tanvir-shanto.itch.io/jump-run. After that just download the zip file and extract to play
+You can run the game without downloading LÖVE. Just download the zip file for the game from https://tanvir-shanto.itch.io/jump-run. After that just extract and play.
 
 # Credits
                                         
